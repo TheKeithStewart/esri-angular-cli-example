@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class EsriMapComponent implements OnInit {
   webMapProperties: __esri.WebMapProperties = {
     portalItem: {
-      id: 'ad5759bf407c4554b748356ebe1886e5'
+      id: '8e42e164d4174da09f61fe0d3f206641'
     }
   };
   mapViewProperties: __esri.MapViewProperties = {
